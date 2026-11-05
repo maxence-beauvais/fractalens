@@ -295,7 +295,6 @@ FractalCli ..> FractalGeneratorBuilder
 
 ## Feature list
 
-<<<<<<< README.md
 | Features                                               | Design Pattern(s) (?)                          | Author(s)                                  |
 |--------------------------------------------------------|------------------------------------------------|--------------------------------------------|
 | Complex number                                         | Immutable object                               | Lucas Vanstraceele                         |
